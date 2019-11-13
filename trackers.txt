@@ -15,7 +15,10 @@
 ||pk8n57.fnac.com^
 
 ||metrics.sfr.fr^
+||smetrics.sfr.fr^
+||nrg.red-by-sfr.fr^
 ||dt.nrjmobile.fr^
+
 
 ||eule1.pmu.fr^
 
